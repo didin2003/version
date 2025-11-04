@@ -1,3 +1,1 @@
 hello good morning this is my first project
-
-going to deploy on aws
